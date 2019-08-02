@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Bing Bong",
+      "image": "./images/BingBongSciencePixar.png",
+      "occupation": "Imaginery Friend",
+      "location": "Riley's Brain"
+    },
+    {
+      "id": 2,
+      "name": "Buzz Lightyear",
+      "image": "./images/Buzz.jpg",
+      "occupation": "Astronaut",
+      "location": "A Box"
+    },
+    {
+      "id": 3,
+      "name": "Carl",
+      "image": "./images/Carl.jpg",
+      "occupation": "Old Man",
+      "location": "A House"
+    },
+    {
+      "id": 4,
+      "name": "Disgust",
+      "image": "./images/Disgust_Grossed_Out_2.jpg",
+      "occupation": "A Feeling",
+      "location": "Headquarters"
+    },
+    {
+      "id": 5,
+      "name": "Edna",
+      "image": "./images/Edna-mode.jpg",
+      "occupation": "Scientist",
+      "location": "Mansion Lab"
+    },
+    {
+      "id": 6,
+      "name": "Frozone",
+      "image": ".images/Frozone.jpg",
+      "occupation": "Superhero",
+      "location": "Somewhere"
+    },
+    {
+      "id": 7,
+      "name": "Jack Jack",
+      "image": "./images/JackJack.jpg",
+      "occupation": "Superhero Baby",
+      "location": "Everywhere"
+    },
+    {
+      "id": 8,
+      "name": "Joy",
+      "image": "./images/Joy_2.jpg",
+      "occupation": "Emotion",
+      "location": "Headquarters"
+    },
+    {
+      "id": 9,
+      "name": "Merida",
+      "image": "./images/MeridaSitting-Brave.png",
+      "occupation": "Archer",
+      "location": "Ireland"
+    },
+    {
+      "id": 10,
+      "name": "Miguel",
+      "image": "./images/Miguel2.png",
+      "occupation": "Boy",
+      "location": "Mexico City"
+    },
+    {
+      "id": 11,
+      "name": "Mike",
+      "image": "./images/Mike.jpg",
+      "occupation": "Monster",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Nemo",
+      "image": "./images/Nemo.jpg",
+      "occupation": "Clown Fish",
+      "location": "Anemone"
+    }
+  ]
+  
